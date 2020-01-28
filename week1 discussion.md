@@ -1,4 +1,4 @@
-# 1Week 1 Discussion
+# Week 1 Discussion
 
 ## Self Introductions
 
