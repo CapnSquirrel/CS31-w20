@@ -260,7 +260,3 @@ int main() {
     }
 }
 ```
-
-Our villagers:
-
-![villagers](C:\Users\keybl\Pictures\Saved Pictures\villagers.png)
