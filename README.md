@@ -5,4 +5,3 @@ I compile these notes based on professor Howard's lecture slides and [Andrew For
 
 
 ## Contact azapataa@g.ucla.edu if you find errors within these notes. 
-If making mistakes is human, then I may just be the most human ever.
